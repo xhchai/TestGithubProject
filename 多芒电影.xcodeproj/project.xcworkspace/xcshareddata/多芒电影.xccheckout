@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>FBB719D9-A738-41A0-9EEA-B68903F22F9A</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>46ded431-68a5-b648-b6ab-2a389bfe0b19</key>
+		<string>https://mail.zjmovie.net/svn/IOS</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>46ded431-68a5-b648-b6ab-2a389bfe0b19</key>
+		<string>IOS/</string>
+	</dict>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>46ded431-68a5-b648-b6ab-2a389bfe0b19</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>46ded431-68a5-b648-b6ab-2a389bfe0b19</string>
+			<key>IDESourceControlWCCName</key>
+			<string>IOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>
